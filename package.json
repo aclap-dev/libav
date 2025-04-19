@@ -122,6 +122,7 @@
   },
   "module": "dist/libav-6.5.7.1-h264-aac-mp3.mjs",
   "files": [
+    "dist/libav-6.5.7.1-h264-aac-mp3.mjs",
     "dist/libav-6.5.7.1-h264-aac-mp3.wasm.mjs",
     "dist/libav-6.5.7.1-h264-aac-mp3.wasm.wasm",
     "dist/libav.types.d.ts"
